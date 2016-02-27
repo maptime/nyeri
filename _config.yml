@@ -1,13 +1,14 @@
-baseurl: /starter
+baseurl: /nyeri
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: nyeri
 github_org: maptime
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: MaptimeNyeri
+  #twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
+future: true
 
 gems:
   - jekyll-feed
